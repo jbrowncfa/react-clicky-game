@@ -1,2 +1,4 @@
-# react-clicky-game
-React memory game created with npx create-react-app and hosted on netlify.com. Give it a try [React.js Memory Game](https://cocky-wiles-0bae4e.netlify.com/) I hope you have fun!
+**1. ReactJS Memory Game**
+React memory game with multiple UI components and states responsive to user events.
+View the project live:
+https://cocky-wiles-0bae4e.netlify.com/
